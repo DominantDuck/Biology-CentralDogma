@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="DNA-Sequencing" />
+        <module name="Biology-CentralDogma" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="DNA-Sequencing" target="15" />
+      <module name="Biology-CentralDogma" target="15" />
     </bytecodeTargetLevel>
   </component>
 </project>
